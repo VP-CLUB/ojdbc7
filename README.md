@@ -16,18 +16,6 @@ cp .m2\repository\com\oracle\jdbc\ojdbc7\12.1.0.2\ojdbc7-12.1.0.2\META-INF targe
 
 mvn deploy -Pdeploy -Dmaven.main.skip=true -Dmaven.install.skip=true  (configure your Maven setting.xml)
 
-# How use
-
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.noraui/ojdbc7/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.noraui/ojdbc7)
-
-```xml
-<dependency>
-    <groupId>com.github.noraui</groupId>
-    <artifactId>ojdbc7</artifactId>
-    <version>12.1.0.2</version>
-</dependency>
-```
-
 # License
 
 [![license](https://img.shields.io/github/license/NoraUi/ojdbc7.svg)](https://github.com/NoraUi/ojdbc7/blob/master/LICENSE) + Oracle Technology Network License Agreement, See LICENSE for details
