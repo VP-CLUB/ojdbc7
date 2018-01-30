@@ -1,7 +1,7 @@
 # ojdbc7
 Oracle JDBC Driver for java oracle.jdbc.driver.OracleDriver ojdbc7
 
-(THIS ARTIFACT IS DEPRECATED, please use a official OTN in your Maven project. Notice here: https://github.com/sgrillon14/MavenSampleOracleJdbc)
+:heavy_exclamation_mark:(THIS ARTIFACT IS DEPRECATED, please use a official OTN in your Maven project. Notice here: https://github.com/sgrillon14/MavenSampleOracleJdbc)
 
 # How deploy to sonatype
 mvn clean install
